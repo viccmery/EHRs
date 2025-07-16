@@ -1,0 +1,328 @@
+,Code,Title
+0,H00,Hordeolum and chalazion
+1,H00-H06,"Disorders of eyelid, lacrimal system and orbit"
+2,H000,Hordeolum and other deep inflammation of eyelid
+3,H001,Chalazion
+4,H01,Other inflammation of eyelid
+5,H010,Blepharitis
+6,H011,Noninfectious dermatoses of eyelid
+7,H018,Other specified inflammation of eyelid
+8,H019,"Inflammation of eyelid, unspecified"
+9,H02,Other disorders of eyelid
+10,H020,Entropion and trichiasis of eyelid
+11,H021,Ectropion of eyelid
+12,H022,Lagophthalmos
+13,H023,Blepharochalasis
+14,H024,Ptosis of eyelid
+15,H025,Other disorders affecting eyelid function
+16,H026,Xanthelasma of eyelid
+17,H027,Other degenerative disorders of eyelid and periocular area
+18,H028,Other specified disorders of eyelid
+19,H029,"Disorder of eyelid, unspecified"
+20,H03,Disorders of eyelid in diseases classified elsewhere
+21,H030,Parasitic infestation of eyelid in diseases classified elsewhere
+22,H031,Involvement of eyelid in other infectious diseases classified elsewhere
+23,H038,Involvement of eyelid in other diseases classified elsewhere
+24,H04,Disorders of lacrimal system
+25,H040,Dacryoadenitis
+26,H041,Other disorders of lacrimal gland
+27,H042,Epiphora
+28,H043,Acute and unspecified inflammation of lacrimal passages
+29,H044,Chronic inflammation of lacrimal passages
+30,H045,Stenosis and insufficiency of lacrimal passages
+31,H046,Other changes in lacrimal passages
+32,H048,Other disorders of lacrimal system
+33,H049,"Disorder of lacrimal system, unspecified"
+34,H05,Disorders of orbit
+35,H050,Acute inflammation of orbit
+36,H051,Chronic inflammatory disorders of orbit
+37,H052,Exophthalmic conditions
+38,H053,Deformity of orbit
+39,H054,Enophthalmos
+40,H055,Retained (old) foreign body following penetrating wound of orbit
+41,H058,Other disorders of orbit
+42,H059,"Disorder of orbit, unspecified"
+43,H06,Disorders of lacrimal system and orbit in diseases classified elsewhere
+44,H060,Disorders of lacrimal system in diseases classified elsewhere
+45,H061,Parasitic infestation of orbit in diseases classified elsewhere
+46,H062,Dysthyroid exophthalmos
+47,H063,Other disorders of orbit in diseases classified elsewhere
+48,H10,Conjunctivitis
+49,H10-H13,Disorders of conjunctiva
+50,H100,Mucopurulent conjunctivitis
+51,H101,Acute atopic conjunctivitis
+52,H102,Other acute conjunctivitis
+53,H103,"Acute conjunctivitis, unspecified"
+54,H104,Chronic conjunctivitis
+55,H105,Blepharoconjunctivitis
+56,H108,Other conjunctivitis
+57,H109,"Conjunctivitis, unspecified"
+58,H11,Other disorders of conjunctiva
+59,H110,Pterygium
+60,H111,Conjunctival degenerations and deposits
+61,H112,Conjunctival scars
+62,H113,Conjunctival haemorrhage
+63,H114,Other conjunctival vascular disorders and cysts
+64,H118,Other specified disorders of conjunctiva
+65,H119,"Disorder of conjunctiva, unspecified"
+66,H13,Disorders of conjunctiva in diseases classified elsewhere
+67,H130,Filarial infection of conjunctiva
+68,H131,Conjunctivitis in infectious and parasitic diseases classified elsewhere
+69,H132,Conjunctivitis in other diseases classified elsewhere
+70,H133,Ocular pemphigoid
+71,H138,Other disorders of conjunctiva in diseases classified elsewhere
+72,H15,Disorders of sclera
+73,H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+74,H150,Scleritis
+75,H151,Episcleritis
+76,H158,Other disorders of sclera
+77,H159,"Disorder of sclera, unspecified"
+78,H16,Keratitis
+79,H160,Corneal ulcer
+80,H161,Other superficial keratitis without conjunctivitis
+81,H162,Keratoconjunctivitis
+82,H163,Interstitial and deep keratitis
+83,H164,Corneal neovascularization
+84,H168,Other keratitis
+85,H169,"Keratitis, unspecified"
+86,H17,Corneal scars and opacities
+87,H170,Adherent leukoma
+88,H171,Other central corneal opacity
+89,H178,Other corneal scars and opacities
+90,H179,"Corneal scar and opacity, unspecified"
+91,H18,Other disorders of cornea
+92,H180,Corneal pigmentations and deposits
+93,H181,Bullous keratopathy
+94,H182,Other corneal oedema
+95,H183,Changes in corneal membranes
+96,H184,Corneal degeneration
+97,H185,Hereditary corneal dystrophies
+98,H186,Keratoconus
+99,H187,Other corneal deformities
+100,H188,Other specified disorders of cornea
+101,H189,"Disorder of cornea, unspecified"
+102,H19,Disorders of sclera and cornea in diseases classified elsewhere
+103,H190,Scleritis and episcleritis in diseases classified elsewhere
+104,H191,Herpesviral keratitis and keratoconjunctivitis
+105,H192,Keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere
+106,H193,Keratitis and keratoconjunctivitis in other diseases classified elsewhere
+107,H198,Other disorders of sclera and cornea in diseases classified elsewhere
+108,H20,Iridocyclitis
+109,H200,Acute and subacute iridocyclitis
+110,H201,Chronic iridocyclitis
+111,H202,Lens-induced iridocyclitis
+112,H208,Other iridocyclitis
+113,H209,"Iridocyclitis, unspecified"
+114,H21,Other disorders of iris and ciliary body
+115,H210,Hyphaema
+116,H211,Other vascular disorders of iris and ciliary body
+117,H212,Degeneration of iris and ciliary body
+118,H213,"Cyst of iris, ciliary body and anterior chamber"
+119,H214,Pupillary membranes
+120,H215,Other adhesions and disruptions of iris and ciliary body
+121,H218,Other specified disorders of iris and ciliary body
+122,H219,"Disorder of iris and ciliary body, unspecified"
+123,H22,Disorders of iris and ciliary body in diseases classified elsewhere
+124,H220,Iridocyclitis in infectious and parasitic diseases classified elsewhere
+125,H221,Iridocyclitis in other diseases classified elsewhere
+126,H228,Other disorders of iris and ciliary body in diseases classified elsewhere
+127,H25,Senile cataract
+128,H25-H28,Disorders of lens
+129,H250,Senile incipient cataract
+130,H251,Senile nuclear cataract
+131,H252,"Senile cataract, morgagnian type"
+132,H258,Other senile cataract
+133,H259,"Senile cataract, unspecified"
+134,H26,Other cataract
+135,H260,"Infantile, juvenile and presenile cataract"
+136,H261,Traumatic cataract
+137,H262,Complicated cataract
+138,H263,Drug-induced cataract
+139,H264,After-cataract
+140,H268,Other specified cataract
+141,H269,"Cataract, unspecified"
+142,H27,Other disorders of lens
+143,H270,Aphakia
+144,H271,Dislocation of lens
+145,H278,Other specified disorders of lens
+146,H279,"Disorder of lens, unspecified"
+147,H28,Cataract and other disorders of lens in diseases classified elsewhere
+148,H280,Diabetic cataract
+149,H281,"Cataract in other endocrine, nutritional and metabolic diseases"
+150,H282,Cataract in other diseases classified elsewhere
+151,H288,Other disorders of lens in diseases classified elsewhere
+152,H30,Chorioretinal inflammation
+153,H30-H36,Disorders of choroid and retina
+154,H300,Focal chorioretinal inflammation
+155,H301,Disseminated chorioretinal inflammation
+156,H302,Posterior cyclitis
+157,H308,Other chorioretinal inflammations
+158,H309,"Chorioretinal inflammation, unspecified"
+159,H31,Other disorders of choroid
+160,H310,Chorioretinal scars
+161,H311,Choroidal degeneration
+162,H312,Hereditary choroidal dystrophy
+163,H313,Choroidal haemorrhage and rupture
+164,H314,Choroidal detachment
+165,H318,Other specified disorders of choroid
+166,H319,"Disorder of choroid, unspecified"
+167,H32,Chorioretinal disorders in diseases classified elsewhere
+168,H320,Chorioretinal inflammation in infectious and parasitic diseases classified elsewhere
+169,H328,Other chorioretinal disorders in diseases classified elsewhere
+170,H33,Retinal detachments and breaks
+171,H330,Retinal detachment with retinal break
+172,H331,Retinoschisis and retinal cysts
+173,H332,Serous retinal detachment
+174,H333,Retinal breaks without detachment
+175,H334,Traction detachment of retina
+176,H335,Other retinal detachments
+177,H34,Retinal vascular occlusions
+178,H340,Transient retinal artery occlusion
+179,H341,Central retinal artery occlusion
+180,H342,Other retinal artery occlusions
+181,H348,Other retinal vascular occlusions
+182,H349,"Retinal vascular occlusion, unspecified"
+183,H35,Other retinal disorders
+184,H350,Background retinopathy and retinal vascular changes
+185,H351,Retinopathy of prematurity
+186,H352,Other proliferative retinopathy
+187,H353,Degeneration of macula and posterior pole
+188,H354,Peripheral retinal degeneration
+189,H355,Hereditary retinal dystrophy
+190,H356,Retinal haemorrhage
+191,H357,Separation of retinal layers
+192,H358,Other specified retinal disorders
+193,H359,"Retinal disorder, unspecified"
+194,H36,Retinal disorders in diseases classified elsewhere
+195,H360,Diabetic retinopathy
+196,H368,Other retinal disorders in diseases classified elsewhere
+197,H40,Glaucoma
+198,H40-H42,Glaucoma
+199,H400,Glaucoma suspect
+200,H401,Primary open-angle glaucoma
+201,H402,Primary angle-closure glaucoma
+202,H403,Glaucoma secondary to eye trauma
+203,H404,Glaucoma secondary to eye inflammation
+204,H405,Glaucoma secondary to other eye disorders
+205,H406,Glaucoma secondary to drugs
+206,H408,Other glaucoma
+207,H409,"Glaucoma, unspecified"
+208,H42,Glaucoma in diseases classified elsewhere
+209,H420,"Glaucoma in endocrine, nutritional and metabolic diseases"
+210,H428,Glaucoma in other diseases classified elsewhere
+211,H43,Disorders of vitreous body
+212,H43-H45,Disorders of vitreous body and globe
+213,H430,Vitreous prolapse
+214,H431,Vitreous haemorrhage
+215,H432,Crystalline deposits in vitreous body
+216,H433,Other vitreous opacities
+217,H438,Other disorders of vitreous body
+218,H439,"Disorder of vitreous body, unspecified"
+219,H44,Disorders of globe
+220,H440,Purulent endophthalmitis
+221,H441,Other endophthalmitis
+222,H442,Degenerative myopia
+223,H443,Other degenerative disorders of globe
+224,H444,Hypotony of eye
+225,H445,Degenerated conditions of globe
+226,H446,"Retained (old) intraocular foreign body, magnetic"
+227,H447,"Retained (old) intraocular foreign body, nonmagnetic"
+228,H448,Other disorders of globe
+229,H449,"Disorder of globe, unspecified"
+230,H45,Disorders of vitreous body and globe in diseases classified elsewhere
+231,H450,Vitreous haemorrhage in diseases classified elsewhere
+232,H451,Endophthalmitis in diseases classified elsewhere
+233,H458,Other disorders of vitreous body and globe in diseases classified elsewhere
+234,H46,Optic neuritis
+235,H46-H48,Disorders of optic nerve and visual pathways
+236,H47,Other disorders of optic [2nd] nerve and visual pathways
+237,H470,"Disorders of optic nerve, not elsewhere classified"
+238,H471,"Papilloedema, unspecified"
+239,H472,Optic atrophy
+240,H473,Other disorders of optic disc
+241,H474,Disorders of optic chiasm
+242,H475,Disorders of other visual pathways
+243,H476,Disorders of visual cortex
+244,H477,"Disorder of visual pathways, unspecified"
+245,H48,Disorders of optic [2nd] nerve and visual pathways in diseases classified elsewhere
+246,H480,Optic atrophy in diseases classified elsewhere
+247,H481,Retrobulbar neuritis in diseases classified elsewhere
+248,H488,Other disorders of optic nerve and visual pathways in diseases classified elsewhere
+249,H49,Paralytic strabismus
+250,H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+251,H490,Third [oculomotor] nerve palsy
+252,H491,Fourth [trochlear] nerve palsy
+253,H492,Sixth [abducent] nerve palsy
+254,H493,Total (external) ophthalmoplegia
+255,H494,Progressive external ophthalmoplegia
+256,H498,Other paralytic strabismus
+257,H499,"Paralytic strabismus, unspecified"
+258,H50,Other strabismus
+259,H500,Convergent concomitant strabismus
+260,H501,Divergent concomitant strabismus
+261,H502,Vertical strabismus
+262,H503,Intermittent heterotropia
+263,H504,Other and unspecified heterotropia
+264,H505,Heterophoria
+265,H506,Mechanical strabismus
+266,H508,Other specified strabismus
+267,H509,"Strabismus, unspecified"
+268,H51,Other disorders of binocular movement
+269,H510,Palsy of conjugate gaze
+270,H511,Convergence insufficiency and excess
+271,H512,Internuclear ophthalmoplegia
+272,H518,Other specified disorders of binocular movement
+273,H519,"Disorder of binocular movement, unspecified"
+274,H52,Disorders of refraction and accommodation
+275,H520,Hypermetropia
+276,H521,Myopia
+277,H522,Astigmatism
+278,H523,Anisometropia and aniseikonia
+279,H524,Presbyopia
+280,H525,Disorders of accommodation
+281,H526,Other disorders of refraction
+282,H527,"Disorder of refraction, unspecified"
+283,H53,Visual disturbances
+284,H53-H54,Visual disturbances and blindness
+285,H530,Amblyopia ex anopsia
+286,H531,Subjective visual disturbances
+287,H532,Diplopia
+288,H533,Other disorders of binocular vision
+289,H534,Visual field defects
+290,H535,Colour vision deficiencies
+291,H536,Night blindness
+292,H538,Other visual disturbances
+293,H539,"Visual disturbance, unspecified"
+294,H54,Visual impairment including blindness (binocular or monocular)
+295,H540,"Blindness, binocular"
+296,H541,"Severe visual impairment, binocular"
+297,H542,"Moderate visual impairment, binocular"
+298,H543,"Mild or no visual impairment, binocular"
+299,H544,"Blindness, monocular"
+300,H545,"Severe visual impairment, monocular"
+301,H546,"Moderate visual impairment, monocular"
+302,H549,Unspecified visual impairment (binocular)
+303,H55,Nystagmus and other irregular eye movements
+304,H55-H59,Other disorders of eye and adnexa
+305,H57,Other disorders of eye and adnexa
+306,H570,Anomalies of pupillary function
+307,H571,Ocular pain
+308,H578,Other specified disorders of eye and adnexa
+309,H579,"Disorder of eye and adnexa, unspecified"
+310,H58,Other disorders of eye and adnexa in diseases classified elsewhere
+311,H580,Anomalies of pupillary function in diseases classified elsewhere
+312,H581,Visual disturbances in diseases classified elsewhere
+313,H588,Other specified disorders of eye and adnexa in diseases classified elsewhere
+314,H59,"Postprocedural disorders of eye and adnexa, not elsewhere classified"
+315,H590,Keratopathy (bullous aphakic) following cataract surgery
+316,H598,Other postprocedural disorders of eye and adnexa
+317,H599,"Postprocedural disorder of eye and adnexa, unspecified"
+318,H04123,Dry eye syndrome of bilateral lacrimal glands
+319,H04129,Dry eye syndrome of unspecified lacrimal gland
+320,H25813,"Combined forms of age-related cataract, bilateral"
+321,H2513,"Age-related nuclear cataract, bilateral"
+322,H2511,"Age-related nuclear cataract, right eye"
+323,H2512,"Age-related nuclear cataract, left eye"
+324,H5213,"Myopia, bilateral"
+325,H52203,"Unspecified astigmatism, bilateral"
+326,H5789,Other specified disorders of the eye and adnexa
